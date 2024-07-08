@@ -2,7 +2,7 @@
 you need python
 type this in bash shell
 ```
-curl -0 https://github.com/HazeeOnYT/colorshell.sh/raw/main/colorshell.py
+curl -O https://raw.githubusercontent.com/HazeeOnYT/colorshell.sh/main/colorshell.sh
 ```
 and then type
 ```
